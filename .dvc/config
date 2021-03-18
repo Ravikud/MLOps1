@@ -1,0 +1,4 @@
+[core]
+    remote = r1
+['remote "r1"']
+    url = ../1VoPxbSpM7MTW6pw2ts4A7sNN7QWoRwPq
